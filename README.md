@@ -4,9 +4,9 @@
 
 this desktop application is built on netbeans and to run it you need to follow these steps first:
 
-1/ install the libs that are provided in the "used libs "folder
+1/ install the libs that are provided in "used_libs.zip"
 
-2/ Create a local data base similar to the data base provided in the project report and keep the same attributes and db name
+2/ Create a local data base similar to the data base provided in project_report.pdf and keep the same attributes and db name
 
 ########################
 
