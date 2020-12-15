@@ -2,11 +2,13 @@
 
 ########################
 
-this desktop application is built on netbeans and to run it you need to follow these steps first:
+this desktop application is built on netbeans :
 
-1/ install the libs that are provided in "used_libs.zip"
+1/ libs used for the charts are provided in "used_libs.zip"
 
-2/ Create a local data base similar to the data base provided in project_report.pdf and keep the same attributes and db name
+2/ the src folder cointains the forms and java code
+
+3/ all other information needed is provided in Project-Report.pdf whithin a demonstration of the app working
 
 ########################
 
